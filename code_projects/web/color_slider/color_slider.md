@@ -18,4 +18,4 @@
 * node_modules can be installed locally on each pc and are not needed to be shipped :)
 
 ## Sample Widget
-![scanning_preview](../../../assets/color_slider_widget.gif)
+![web_color_picker](../../../assets/web_color_picker.gif)
